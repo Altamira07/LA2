@@ -1,0 +1,8 @@
+Real sisi => 1234@
+Cadena @jeje => 131243.0
+Cadena holi => 1.0 + 2.0
+si ( cadena < nuevo && verdadero ) entonces 
+{ 
+imprime 'Hlik_jkj'
+} 
+finsi
